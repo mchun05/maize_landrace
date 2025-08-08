@@ -1,9 +1,0 @@
-<h4>Important Data Processing Information</h4>
-
-<p>The data used to generate the venn diagrams below is a subset of the CIMMYT Germplasm Bank
-Maize Landrace Accessions. The venn diagrams displays proportions of variants (SNPs/SNVs) that
-are shared between all three groups (central overlap area), shared between only two groups, or 
-are only found in one of the three populations. As the global minor allele frequency (MAF) 
-threshold increases, we observe increasingly more shared variants between landraces and less unique
-ones.</p>
-
